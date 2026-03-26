@@ -289,7 +289,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 📬 Contact
 
-**Your Name**
 - GitHub: Dhruvisonline
 - Email: Laldhruv17@gmail.com
 
